@@ -1,0 +1,34 @@
+Unidad III DMC
+insert, update, delete
+
+select, from, where
+
+insert into tabla values()
+
+update tabla set atributo= valorNuevo
+where condicion
+
+delete from tabla where ____
+
+1. Crea una tabla denominada participante que contenga la siguiente informacion:
+Nombre del participante, id participante, carrera, escuela de procedencia, area de especialidad, tema con el que participa.
+
+2. Inserta los valores a la tabla:
+
+Jose Lopez, 1, ISC, ITT, Sistemas, Aplicaciones moviles.
+Laura Gomez, 2, ITIC, ITT, Sistemas, Auditoria informatica
+Camila Flores, 3, Arq, ITT, Diseño, Arq. del paisaje
+Luis Vazquez, 4, C.P, UABC, Contaduria, ISR.
+
+
+3. Modifica los datos de los estudiantes cuya escuela de procedencia es itt y cambia el nombre por instituto tecnologico de tijuana, para realizar esto debes tambien 
+modificar la estructura de la tabla.
+
+4. Modifica el nombre del participante con id num. 4 y agrega el nombre rogelio garcia.
+
+5. borra los registros cuya area sea diseño.
+6. inserta un registro con tus datos y agrega como tema dml y sql.
+7. Despliega los datos de todos los participantes.
+8. despliega los datos de los participantes cuya escuela de procedencia sea el instituto tecnologico de tijuana.
+9. despliega los datos de los participantes cuya escuela de procedencia sea uabc.
+10. Elimina el registro del participante cuya escuela de procedencia sea uabc.

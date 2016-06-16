@@ -1,3 +1,6 @@
+Select table1.ID ,table1.Name from Table1 inner join Table2 on Table1 .ID =Table2 .ID inner join Table3 on table2.ID=Table3 .ID
+where table1.Name=Table3.Name
+
 Create Database Factory;
 use Factory;
 
